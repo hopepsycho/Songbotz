@@ -1,16 +1,16 @@
-# Tamilini Music 🎸
+# ANGEL Music 🎸
 
 ## Give your 💙
 
 Before clicking on deploy to heroku just click on fork and star just below
 
 <p align="center">
-  <a href="https://github.com/TamilBots/TamiliniMusic/fork">
-    <img src="https://img.shields.io/github/forks/TamilBots/TamiliniMusic?label=Fork&style=social">
+  <a href="https://github.com/hopepsycho/Songbotz/fork">
+    <img src="https://img.shields.io/github/forks/hopepsycho/Songbotz?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/TamilBots/TamiliniMusic">
-    <img src="https://img.shields.io/github/stars/TamilBots/TamiliniMusic?style=social">
+  <a href="https://github.com/hopepsycho/Songbotz">
+    <img src="https://img.shields.io/github/stars/hopepsycho/Songbotz?style=social">
   </a>
 </p>
 
@@ -34,7 +34,7 @@ Before clicking on deploy to heroku just click on fork and star just below
 - Easy To Use! 😋
 
 ## 🔎 Inline Search Support
-- just type the bot username in any chat, example: "`@TamiliniMusicBot Faded Alan Walker`", then bot will give you a results of the query you search in inline mode.
+- just type the bot username in any chat, example: "`@ANGELOFDEVILBOT Faded Alan Walker`", then bot will give you a results of the query you search in inline mode.
 
 ### Requirements 📝
 
@@ -50,7 +50,7 @@ Before clicking on deploy to heroku just click on fork and star just below
 # Deployments :
 
 #### Deploy To Heroku 📡
-<a href="https://heroku.com/deploy?template=https://github.com/TamilBots/TamiliniMusic"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a>
+<a href="https://heroku.com/deploy?template=https://github.com/hopepsycho/Songbotz"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a>
 #### Deploy To RailWay 🚄
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template?template=https%3A%2F%2Fgithub.com%2FTamilBots%2FTamiliniMusic-railways)
 #### Deploy On Vps 🌐
@@ -60,7 +60,7 @@ Before clicking on deploy to heroku just click on fork and star just below
   
 ```sh
 # Install Git First (apt-instll git)
-$ git clone https://github.com/TamilBots/TamiliniMusic
+$ git clone https://github.com/hopepsycho/Songbotz
 $ cd TamilBots
 # Upgrade sources
 # Install All Requirements 
@@ -72,7 +72,7 @@ $ python3 -m Tamilini
 ```
 </details>
   
-Not Getting VPS Method? Contact [Support ❤](https://t.me/TamilSupport)
+Not Getting VPS Method? Contact [Support ❤](https://t.me/kunjappanpachubot)
   
 ### GET STRING SESSION FROM REPL RUN :
 
@@ -91,23 +91,23 @@ Click the below button to watch the video tutorial on deploying
 <a href="https://youtu.be/zV1bV9w2iYU"><img src="https://img.shields.io/badge/How%20To%20Deploy-RAILWAY-blue.svg?logo=Youtube"></a>
 <a href="https://youtu.be/zV1bV9w2iYU"><img src="https://img.shields.io/youtube/views/zV1bV9w2iYU?style=social"></a>
 
-# Reach Me On Telegram : [🎸𝐓𝐚𝐦𝐢𝐥𝐢𝐧𝐢 𝐌𝐮𝐬𝐢𝐜🎶](https:t.me/TamiliniMusicBot)
+# Reach Me On Telegram : [🎸ANGEL 𝐌𝐮𝐬𝐢𝐜🎶](https:t.me/ANGELOFDEVILBOT)
 
-![logo](https://telegra.ph/file/8aa4444ae3a3cb65fc93a.jpg)
+![logo](https://telegra.ph/file/976590281b6e3ed9e5648.jpg)
 
-## Made with ❤️ By [TamilBots](https://t.me/TamilBots) 🤖
+## Made with ❤️ By [PSYCHO](https://t.me/kunjappansupportez) 🤖
 
 # Report Any Error or Help Contact :
 
-<a href="http://t.me/TamilBots"><img src="https://smartiblogster.com/wp-content/uploads/2021/03/smartiblogster-iblogster-join-telegram-channel.png" style="width: 300px; height: 100px"></a>
+<a href="http://t.me/kunjappansupportez"><img src="https://smartiblogster.com/wp-content/uploads/2021/03/smartiblogster-iblogster-join-telegram-channel.png" style="width: 300px; height: 100px"></a>
 
-<a href="http://t.me/TamilSupport"><img src="https://www.pngitem.com/pimgs/m/214-2144731_groups-on-telegram-telegram-group-link-png-transparent.png" style="width: 280px; height: 80px"></a>
+<a href="http://t.me/kunjappansupport"><img src="https://www.pngitem.com/pimgs/m/214-2144731_groups-on-telegram-telegram-group-link-png-transparent.png" style="width: 280px; height: 80px"></a>
 
 ##### Credits :
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)
 - [CallsMusic Team](https://github.com/Callsmusic)
-- [TheHamkerCat](https://github.com/TheHamkerCat)
+- [TheHamkerCat](https://github.com/HOPEPSYCHO)
 - [Charon Baglari](https://github.com/XCBv021)
 
 <details>
