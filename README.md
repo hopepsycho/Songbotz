@@ -83,13 +83,13 @@ Not Getting VPS Method? Contact [Support ❤](https://t.me/kunjappanpachubot)
 
 Click the below button to watch the video tutorial on deploying
 
-[![Tutorial](https://yt-embed.herokuapp.com/embed?v=zV1bV9w2iYU)](https://www.youtube.com/watch?v=zV1bV9w2iYU)
+[![Tutorial](https://yt-embed.herokuapp.com/embed?v=vkkZs6t_DZo)](https://www.youtube.com/watch?v=vkkZs6t_DZo)
 
-<a href="https://youtu.be/zV1bV9w2iYU"><img src="https://img.shields.io/badge/How%20To%20Deploy-HEROKU-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/zV1bV9w2iYU"><img src="https://img.shields.io/youtube/views/zV1bV9w2iYU?style=social">
+<a href="https://youtu.be/vkkZs6t_DZo"><img src="https://img.shields.io/badge/How%20To%20Deploy-HEROKU-blue.svg?logo=Youtube"></a>
+<a href="https://youtu.be/vkkZs6t_DZo"><img src="https://img.shields.io/youtube/views/vkkZs6t_DZo?style=social">
     
-<a href="https://youtu.be/zV1bV9w2iYU"><img src="https://img.shields.io/badge/How%20To%20Deploy-RAILWAY-blue.svg?logo=Youtube"></a>
-<a href="https://youtu.be/zV1bV9w2iYU"><img src="https://img.shields.io/youtube/views/zV1bV9w2iYU?style=social"></a>
+<a href="https://youtu.be/vkkZs6t_DZo"><img src="https://img.shields.io/badge/How%20To%20Deploy-RAILWAY-blue.svg?logo=Youtube"></a>
+<a href="https://youtu.be/vkkZs6t_DZo"><img src="https://img.shields.io/youtube/views/vkkZs6t_DZo?style=social"></a>
 
 # Reach Me On Telegram : [🎸ANGEL 𝐌𝐮𝐬𝐢𝐜🎶](https:t.me/ANGELOFDEVILBOT)
 
