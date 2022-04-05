@@ -1,18 +1,18 @@
 {
-  "name": "Tamilini Music",
+  "name": "Angel Music",
   "description": "A Telegram Music Bot with proper functions written in Python with Pyrogram and Py-Tgcalls.",
-  "repository": "https://github.com/TamilBots/TamiliniMusic",
-  "logo": "https://telegra.ph/file/8aa4444ae3a3cb65fc93a.jpg",
+  "repository": "https://github.com/hopepsycho/Songbotz",
+  "logo": "https://telegra.ph/file/976590281b6e3ed9e5648.jpg",
   "keywords": [
   "python3",
   "telegram",
   "bot",
-  "Tamilini",
-  "TamiliniMusic",
+  "Angel",
+  "AngelMusic",
   "telegram-bot",
   "pyrogram"
   ],
-  "repository": "https://github.com/Tamilini/TamiliniMusic",
+  "repository": "https://github.com/hopepsycho/Songbotz",
   "stack": "container",
   "env": {
     "API_ID": {
