@@ -232,7 +232,7 @@ All commands can be used with: /
     )
 
 
-@app.on_callback_query(filters.regex("TamilBots"))
+@app.on_callback_query(filters.regex("kunjappansupportez"))
 async def TamilBots(_, CallbackQuery):
     text, keyboard = await help_parser(CallbackQuery.from_user.mention)
     await CallbackQuery.message.edit(text, reply_markup=keyboard)
