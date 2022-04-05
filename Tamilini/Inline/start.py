@@ -10,7 +10,7 @@ def start_pannel():
         buttons = [
             [
                 InlineKeyboardButton(
-                    text="🗂 Helper Commands Menu", callback_data="TamilBots"
+                    text="🗂 Helper Commands Menu", callback_data="kunjappansupportez"
                 ),
             ],
             [
@@ -24,7 +24,7 @@ def start_pannel():
         buttons = [
             [
                 InlineKeyboardButton(
-                    text="🗂 Helper Commands Menu", callback_data="TamilBots"
+                    text="🗂 Helper Commands Menu", callback_data="kunjappansupportez"
                 ),
             ],
             [
@@ -43,7 +43,7 @@ def start_pannel():
         buttons = [
             [
                 InlineKeyboardButton(
-                    text="🗂 Helper Commands Menu", callback_data="TamilBots"
+                    text="🗂 Helper Commands Menu", callback_data="kunjappansupportez"
                 ),
             ],
             [
@@ -62,7 +62,7 @@ def start_pannel():
         buttons = [
             [
                 InlineKeyboardButton(
-                    text="🗂 Helper Commands Menu", callback_data="TamilBots"
+                    text="🗂 Helper Commands Menu", callback_data="kunjappansupportez"
                 ),
             ],
             [
@@ -87,7 +87,7 @@ def private_panel():
         buttons = [
             [
                 InlineKeyboardButton(
-                    text="🗂 Helper Commands Menu", callback_data="TamilBots"
+                    text="🗂 Helper Commands Menu", callback_data="kunjappansupportez"
                 ),
             ],
             [
@@ -102,7 +102,7 @@ def private_panel():
         buttons = [
             [
                 InlineKeyboardButton(
-                    text="🗂 Helper Commands Menu", callback_data="TamilBots"
+                    text="🗂 Helper Commands Menu", callback_data="kunjappansupportez"
                 ),
             ],
             [
@@ -122,7 +122,7 @@ def private_panel():
         buttons = [
             [
                 InlineKeyboardButton(
-                    text="🗂 Helper Commands Menu", callback_data="TamilBots"
+                    text="🗂 Helper Commands Menu", callback_data="kunjappansupportez"
                 ),
             ],
             [
@@ -142,7 +142,7 @@ def private_panel():
         buttons = [
             [
                 InlineKeyboardButton(
-                    text="🗂 Helper Commands Menu", callback_data="TamilBots"
+                    text="🗂 Helper Commands Menu", callback_data="kunjappansupportez"
                 ),
             ],
             [
